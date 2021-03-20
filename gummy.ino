@@ -1,4 +1,8 @@
-#include <Servo.h> //INCLUSÃO DA BIBLIOTECA NECESSÁRIA \newline
+/*Projeto Motivador de Introdução à Engenharia Mecatrônica
+  Misturador de Líquidos Automatizado
+  Aluno: Emanuel Couto Brenag
+*/
+#include <Servo.h> //INCLUSÃO DA BIBLIOTECA NECESSÁRIA
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2); //PINOS UTILIZADOS PELO DISPLAY
